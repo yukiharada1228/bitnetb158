@@ -5,15 +5,15 @@
   <!-- <img src="https://img.shields.io/badge/-Docker-eb7739.svg?logo=docker&style=for-the-badge"> -->
 </p>
 
-# BitNetb158
+# bitnetb158
 Implemented various networks using quantization proposed in [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764).
 
 ## Usage
-To use the BitNetb158 in your project, follow these steps:
+To use the bitnetb158 in your project, follow these steps:
 1. Clone the repository:
 ```bash
-git clone https://github.com/yukiharada1228/BitNetb158.git
-cd BitNetb158
+git clone https://github.com/yukiharada1228/bitnetb158.git
+cd bitnetb158
 ```
 2. Install the package:
 ```bash
