@@ -1,5 +1,6 @@
 import torch
 
+
 def calculate_mean_std(dataloader, device):
     h, w = 0, 0
     chsum = None

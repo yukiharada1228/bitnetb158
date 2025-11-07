@@ -3,8 +3,9 @@ import math
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from bitnetb158.replace_hf import replace_layers_with_bitb158_layers
 from torch.nn import init
+
+from bitnetb158.replace_hf import replace_layers_with_bitb158_layers
 
 
 # ResNet for CIFAR

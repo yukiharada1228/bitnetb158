@@ -1,1 +1,1 @@
-from .resnet import resnet20, bit_resnet20_b158
+from .resnet import bit_resnet20_b158, resnet20
